@@ -11,6 +11,7 @@
 
 
 ## Challenges:
+
 | #                 | Link                                                               |
 | ----------------- | ------------------------------------------------------------------ |
 | Code Challenge 06 | [Arrays](./Class-06/Code-Challenge-06/README.md)                   |
@@ -29,9 +30,10 @@
 | Code Challenge 19 | [HackerRank - 03](./Class-19/Code-Challenge-19/README.md)          |
 
 ## Assignments:
+
 | #                 | Link                                                               |
 | ----------------- | ------------------------------------------------------------------ |
 | Assignment 01     | will be implement in the future                                    |
 
-## Done
+## Done...
 
