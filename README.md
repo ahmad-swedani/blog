@@ -1,4 +1,3 @@
-# Prep Course:
 
 ## Course Modules:
 
@@ -11,7 +10,7 @@
 | [Class 05: Javascript: Introduction](./Class-05/README.md)       | [Class 10: Recursive Function and Regex ](./Class-10/README.md)           | [Class 15: Backend Deployment](./Class-15/README.md) | [Class 20: Installation](./Class-20/README.md)                                               |
 
 
-## Code Challenges:
+## Challenges:
 | #                 | Link                                                               |
 | ----------------- | ------------------------------------------------------------------ |
 | Code Challenge 06 | [Arrays](./Class-06/Code-Challenge-06/README.md)                   |
