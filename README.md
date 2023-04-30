@@ -27,3 +27,11 @@
 | Code Challenge 17 | [Recursion, String, Array](./Class-17/Code-Challenge-17/README.md) |
 | Code Challenge 18 | [String, Array](./Class-18/Code-Challenge-18/README.md)            |
 | Code Challenge 19 | [HackerRank - 03](./Class-19/Code-Challenge-19/README.md)          |
+
+## Assignments:
+| #                 | Link                                                               |
+| ----------------- | ------------------------------------------------------------------ |
+| Assignment 01     | will be implement in the future                                    |
+
+## Done
+
